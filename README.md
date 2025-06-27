@@ -1,6 +1,8 @@
 🎬 CineMate-AI
 An AI-powered movie recommendation system with chatbot features and interactive quizzes to help you discover movies you'll love.
 
+To see the demo - https://cinemate-ai-6rmbvk3pwvtsfwzitarefx.streamlit.app/
+
 Show Image
 Show Image
 Show Image
